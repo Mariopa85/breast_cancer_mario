@@ -1,12 +1,11 @@
-python==3.12.7
 streamlit
 scikit-learn
 pandas
 numpy
+joblib
 plotly
 shap
 reportlab
 matplotlib
 seaborn
 ipython
-joblib==1.3.2
